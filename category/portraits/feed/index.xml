@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portraits &#8211; CA Photo</title>
+	<atom:link href="/category/portraits/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Bolton based wedding and portrait photography</description>
+	<lastBuildDate>Mon, 10 Mar 2014 16:23:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.19</generator>
+	<item>
+		<title>Longford Park Centenary</title>
+		<link>/2012/05/longford-park-centenary/</link>
+		<pubDate>Wed, 23 May 2012 14:27:56 +0000</pubDate>
+		<dc:creator><![CDATA[Cat]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Portraits]]></category>
+
+		<guid isPermaLink="false">/?p=281</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><a href="/gallery/longford-park-centenary-event-saturday/"><img class="aligncenter size-medium title="LongfordParkSat001" src="/wp-content/uploads/2012/05/LongfordParkSat001.jpg" alt="" width="600"  /></a></p>
+<p><a href="/gallery/longford-park-centenary-event-saturday/"><img src="/wp-content/uploads/2012/05/LongfordParkSat002.jpg" alt="" title="LongfordParkSat002" width="600"  class="aligncenter" /></a></p>
+<p><a href="/gallery/longford-park-centenary-event-sunday/"><img src="/wp-content/uploads/2012/05/LongfordParkSun009.jpg" alt="" title="LongfordParkSun009" width="600"  class="aligncenter" /></a></p>
+<p><a href="/gallery/longford-park-centenary-event-saturday/"><img src="/wp-content/uploads/2012/05/LongfordParkSat024.jpg" alt="" title="LongfordParkSat024" width="600" class="aligncenter" /></a></p>
+<p>A couple of weekends ago I had a great weekend documenting a 2-day, fun filled and gloriously sunny party in <a href="http://lp100.org.uk/">Longford Park</a>, Stretford. </p>
+<p>I met some lovely folk, eat some fantastic food and was thoroughly entertained by <a href="http://www.drumroots.org.uk/">Drum Roots</a>, <a href="http://www.gorsehillstudios.com/">Gorshill Studio&#8217;s roaming play</a> and Victoria Park School&#8217;s maypole dancing. </p>
+<p>There are further photos from <a href="/gallery/longford-park-centenary-event-saturday/">Saturday</a> and <a href="/gallery/longford-park-centenary-event-sunday/">Sunday</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
